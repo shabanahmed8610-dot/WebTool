@@ -1,0 +1,7 @@
+{
+  "name": "OmniConvert",
+  "description": "A comprehensive suite of conversion tools powered by modern web technologies and Gemini AI. Convert Images to PDF, polish text with AI, transform data formats, and more.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
